@@ -75,12 +75,12 @@ div {
     border-right-width: 0px;
     border-top-width: 0px;
 }
-.yellow p {
+.yellow > p {
     color: #707070;
 }
 
 .green {
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid;
